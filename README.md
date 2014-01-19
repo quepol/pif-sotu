@@ -1,4 +1,4 @@
-pif-sotu
+Do you want to be a PIF?
 ========
 
-Get more information when next PIF round is announced.
+Get notified when the next round of Presidential Innovation Fellow projects is announced.
