@@ -1,0 +1,23 @@
+{
+  "vars": {
+    "@btn-default-color": "#fff",
+    "@btn-default-bg": "#033",
+    "@btn-default-border": "#116"
+  },
+  "css": [
+    "type.less",
+    "grid.less",
+    "forms.less",
+    "buttons.less",
+    "glyphicons.less",
+    "button-groups.less",
+    "input-groups.less",
+    "labels.less",
+    "badges.less",
+    "media.less",
+    "wells.less",
+    "utilities.less",
+    "responsive-utilities.less"
+  ],
+  "js": []
+}
